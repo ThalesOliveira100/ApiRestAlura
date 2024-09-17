@@ -1,4 +1,4 @@
-# FilmesAPI e FilmesAPIV2
+# API REST Alura
 
 Este repositório contém dois projetos desenvolvidos durante o curso de APIs com C# .NET da **Alura**. O objetivo foi estudar e implementar as principais operações de uma API RESTful, utilizando **C# .NET** e **MySQL** como base de dados. Além disso, foram explorados conceitos como **Migrations**, **DTOs**, **Controllers**, **Models** e o uso do pacote **AutoMapper**.
 
