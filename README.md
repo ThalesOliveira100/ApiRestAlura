@@ -52,9 +52,9 @@ Este projeto visa não só gerenciar filmes, mas também as sessões de cinema e
 ## 📚 Aprendizados
 Durante o curso, foram abordados conceitos importantes, como:
 
-- Operações básicas de uma API REST: POST, GET, PUT, DELETE
-- Mapeamento de entidades e DTOs com AutoMapper
-- Uso do Entity Framework Core e Migrations
+- Operações básicas de uma API REST: **POST, GET, PUT, DELETE**
+- Mapeamento de entidades e DTOs com **AutoMapper**
+- Uso do **Entity Framework Core** e **Migrations**
 - Manipulação de relacionamentos entre entidades em sistemas mais complexos.
 
 Sinta-se à vontade para explorar o projeto, sugerir melhorias ou discutir sobre APIs com C# .NET!
