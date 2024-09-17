@@ -57,6 +57,8 @@ Durante o curso, foram abordados conceitos importantes, como:
 - Uso do **Entity Framework Core** e **Migrations**
 - Manipulação de relacionamentos entre entidades em sistemas mais complexos.
 
+
+
 Sinta-se à vontade para explorar o projeto, sugerir melhorias ou discutir sobre APIs com C# .NET!
 
 ---
